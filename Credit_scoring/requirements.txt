@@ -1,0 +1,10 @@
+pandas==1.3.5
+pandas-profiling==3.6.6
+numpy==1.21.6
+sklearn==0.0.post4
+imblearn==0.0
+catboost==1.2
+seaborn==0.12.2
+matplotlib==3.5.3
+matplotlib-inline==0.1.6
+shap==0.42.1
