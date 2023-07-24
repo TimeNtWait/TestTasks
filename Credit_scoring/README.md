@@ -46,3 +46,7 @@
     - seaborn
     - matplotlib
     - shap
+
+Установка:
+$ pip install -r requirements.txt
+    
