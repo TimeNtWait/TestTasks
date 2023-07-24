@@ -31,7 +31,7 @@
 4. Формирование предложений по развитию решения (как данных, так и модели) 
 
 #### Файлы:
-- [Ноутбук решения](credit_scoring.ipynb)
+- [Ноутбук решения (ipynb)](credit_scoring.ipynb)
 - [Ноутбук решения в формате PDF](credit_scoring.pdf)
 - [ТЗ](task.pdf)
 - [dataset](datasets)
@@ -46,3 +46,7 @@
     - seaborn
     - matplotlib
     - shap
+
+Установка:  
+    ```$ pip install -r requirements.txt```
+
